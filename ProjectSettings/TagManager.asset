@@ -41,3 +41,12 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
+  - name: MagnifyingGlass
+    uniqueID: 724506613
+    locked: 0
+  - name: Robot
+    uniqueID: 1446113397
+    locked: 0
+  - name: Pinger
+    uniqueID: 2143933785
+    locked: 0
